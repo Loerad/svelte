@@ -1,7 +1,10 @@
 <!-- HTML main stuff-->
 
 <body>
+    <main>
+        <section class="parallax"></section>
+
+    </main>
     
-    <div class="parallax"></div>
 
 </body>
