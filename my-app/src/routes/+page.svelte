@@ -2,9 +2,7 @@
 
 <body>
     <main>
-        <section class="parallax"></section>
-
+        
+        <img src="/mainbacgroondpoto.png" alt=""/>
     </main>
-    
-
 </body>
