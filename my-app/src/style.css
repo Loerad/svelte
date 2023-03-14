@@ -12,6 +12,7 @@ body,p,button,nav,footer {
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     height: 100%;
+    margin: auto;
 }
 h1 {
     font-family: "Risk Of Rain"; 
